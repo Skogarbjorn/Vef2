@@ -4,3 +4,6 @@
 [submodule "verk2"]
 	path = verk2
 	url = https://github.com/Skogarbjorn/Vef2-verk2.git
+[submodule "hop1"]
+	path = hop1
+	url = https://github.com/Skogarbjorn/Vef2-hop1.git
